@@ -1,6 +1,6 @@
 # Police
 
-\#CHAIN OF COMMAND\
+<mark style="color:blue;">**#CHAIN OF COMMAND**</mark>\
 \
 HOD/ NXPD
 
