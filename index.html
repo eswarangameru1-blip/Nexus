@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>NXPD | Protect & Serve</title>
+  <meta name="description" content="NXPD official department portal" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@400;500;600;700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="grid-bg"></div>
+
+  <header class="topbar">
+    <div class="brand">
+      <div class="brand-badge">N</div>
+      <div>
+        <h1>NXPD</h1>
+        <p>NEXUS Police Department</p>
+      </div>
+    </div>
+
+    <nav class="nav">
+      <a href="#home">Home</a>
+      <a href="#hierarchy">Hierarchy</a>
+      <a href="#protocols">Protocols</a>
+      <a href="#rules">Rules</a>
+      <a href="#personnel">Personnel</a>
+    </nav>
+
+    <button class="menu-btn" id="menuBtn">☰</button>
+  </header>
+
+  <div class="mobile-nav" id="mobileNav">
+    <a href="#home">Home</a>
+    <a href="#hierarchy">Hierarchy</a>
+    <a href="#protocols">Protocols</a>
+    <a href="#rules">Rules</a>
+    <a href="#personnel">Personnel</a>
+  </div>
+
+  <main>
+    <section class="hero section" id="home">
+      <div class="hero-text">
+        <span class="eyebrow">SYSTEM ONLINE</span>
+        <h2>NXPD<br><span>POLICE DEPARTMENT</span></h2>
+        <p>
+          Command center for tactical operations, procedural rules, and secure personnel access.
+          Built to feel powerful, modern, and mission-ready.
+        </p>
+        <div class="hero-actions">
+          <a class="btn btn-primary" href="#personnel">Join Force</a>
+          <a class="btn btn-outline" href="#protocols">Read Protocol</a>
+        </div>
+      </div>
+
+      <div class="hero-panel">
+        <div class="panel-card">
+          <span class="panel-label">MISSION</span>
+          <h3>Protect & Serve</h3>
+          <p>
+            Order first. Discipline always. Escalation only with valid cause.
+          </p>
+        </div>
+
+        <div class="stats">
+          <div class="stat">
+            <strong>07</strong>
+            <span>Command Grades</span>
+          </div>
+          <div class="stat">
+            <strong>18</strong>
+            <span>Core Protocols</span>
+          </div>
+          <div class="stat">
+            <strong>24/7</strong>
+            <span>System Access</span>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="ticker">
+      <div class="ticker-track">
+        <span>NXPD ACTIVE ///</span>
+        <span>PROTECT & SERVE ///</span>
+        <span>CHAIN OF COMMAND ///</span>
+        <span>FIELD DISCIPLINE ///</span>
+        <span>NXPD ACTIVE ///</span>
+        <span>PROTECT & SERVE ///</span>
+        <span>CHAIN OF COMMAND ///</span>
+        <span>FIELD DISCIPLINE ///</span>
+      </div>
+    </section>
+
+    <section class="section" id="hierarchy">
+      <div class="section-title">
+        <span class="section-kicker">DEPARTMENT STRUCTURE</span>
+        <h3>Hierarchy</h3>
+      </div>
+
+      <div class="grade-grid" id="gradeGrid"></div>
+    </section>
+
+    <section class="section" id="protocols">
+      <div class="section-title">
+        <span class="section-kicker">FIELD EXECUTION PROTOCOLS</span>
+        <h3>Standard Operating Procedures</h3>
+      </div>
+
+      <div class="protocol-grid" id="protocolGrid"></div>
+    </section>
+
+    <section class="section" id="rules">
+      <div class="section-title">
+        <span class="section-kicker">DEPARTMENT RULES</span>
+        <h3>Police Rules</h3>
+      </div>
+
+      <div class="orders-grid" id="rulesGrid"></div>
+    </section>
+
+    <section class="section" id="personnel">
+      <div class="section-title">
+        <span class="section-kicker">SECURE SEARCH</span>
+        <h3>Personnel Database</h3>
+      </div>
+
+      <div class="search-bar">
+        <input
+          type="text"
+          id="searchInput"
+          placeholder="Search by rank, code, grade, or officer name..."
+        />
+        <button id="clearSearch">Clear</button>
+      </div>
+
+      <div class="personnel-list" id="personnelList"></div>
+      <p class="empty-state hidden" id="emptyState">No matching records found.</p>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <p>NXPD Command Portal — Static HTML/CSS/JS build for GitHub Pages</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
