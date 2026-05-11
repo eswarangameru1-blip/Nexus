@@ -5,7 +5,7 @@
 **HOD/ NXPD**
 
 * Director of Intelligence Bureau (DIB)&#x20;
-* Chief Director (Chief)
+* Chief of Intelligence Bureau (CIB)
 
 **Directors**
 
