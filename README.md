@@ -1,7 +1,32 @@
 # 🚓 Police
 
-<mark style="color:blue;">**#CHAIN OF COMMAND**</mark>\
-\
+## <mark style="color:blue;">**PD Common Rules**</mark>
+
+1. &#x20;Friendly with civilians/co workers.
+2. &#x20;Try to handle situation as calm as possible.
+3. &#x20;Don't break the higher official command Also There Will be always a Higher Grade Officer on   \
+   duty So all the allocation to the scenarios will be led by them.
+4. Don't play with taser and guns in public areas(especially in front of civilians).
+5. &#x20;Be Responsible has PD Officer Also always remember you are a PD officer.
+6. &#x20;While communicating always use Sir / Madam (avoid VA da / po da & VA ya / po ya)
+7. &#x20;Should not carry confiscated items after processing a suspect Kindly Switch to Main Radio After   \
+   you deposit all the confiscated items.
+8. &#x20;Officers should not use Other Officers Vehicles in Scenarios.
+9. &#x20;When You are joining radio 1 after a scenario or 10-7 or back from 10-5 Make Sure You are   \
+   ready to respond to the allocated scenario officers should not tell any reasons after they are   \
+   allocated.
+10. &#x20;Don't Give random callouts in pd radio to avoid any misleading
+11. &#x20;Do not be in PD uniform while in off-duty
+12. &#x20;Do not Make changes in Window tint, Tire smoke, neon's.    \
+
+13. &#x20;Always be in proper uniform allocated to your grade.
+14. &#x20;Maintain good hairstyle & color, Black, Brown, White, Mild Red looking like a PD officer.
+15. vehicle inspection and inventory check will be done once in a while    \
+
+16. Don't go AFK after being unconscious or at the time of processing suspects
+
+## <mark style="color:blue;">**CHAIN OF COMMAND**</mark>
+
 **HOD/ NXPD**
 
 * Director of Intelligence Bureau (DIB)&#x20;
@@ -52,7 +77,7 @@
 
 * Trainee (TR)
 
-<mark style="color:blue;">**#NXPD Radio Rules:**</mark>
+## <mark style="color:blue;">**NXPD Radio Rules:**</mark>
 
 All police officers must inform their name on radio before going on duty or off duty Example: XXXXX 10-8 (or) 10-7
 
@@ -83,20 +108,18 @@ All police officers must inform their name on radio before going on duty or off 
 10-80 V : Vehicle Pursuit\
 10-80 F : Pursuit on Foot\
 10-90 : Robbery Alarm\
-10-100: Situation Clear
+10-100: Situation Clea
 
 <mark style="color:blue;">**#Vehicle Response Codes**</mark>
 
-* Code 1: No lights, no sirens, must obey traffic laws. (Routine patrol)
-* Code 2: Lights on, no sirens. (Responding to crimes / carrying suspects)
-* Code 3: Lights and sirens on. (Urgent response: Robbery, chase)
+* <mark style="color:$success;">Code 1: No lights, no sirens, must obey traffic laws. (Routine patrol)</mark>
+* <mark style="color:yellow;">Code 2: Lights on, no sirens. (Responding to crimes / carrying suspects)</mark>
+* <mark style="color:$danger;">Code 3: Lights and sirens on. (Urgent response: Robbery, chase)</mark>
 
 <mark style="color:blue;">#</mark><mark style="color:blue;">**MIRANDA RIGHTS**</mark>
 
-You have the right to remain silent. Anything you do or say, can\
-and will be used against you in the court of law. You have the right\
-to an attorney. If you cannot afford an attorney, one will be\
-appointed to represent you.
+“You have the right to remain silent. Anything you\
+say or do, can and will be used against the court of law.”
 
 <mark style="color:blue;">**#SUSPECT**</mark>
 
@@ -132,7 +155,7 @@ A person who has been proven guilty of a crime or has confessed to committing a 
 
 1. Use a siren and megaphone to pull over a car.
 2. Inform radio about the situation, reason for the pullover, car number, model, and color.
-3. Direct the vehicle to stop in a nearby parking area or road shoulder without affecting traffic.
+3. Direct the vehicle to stop in a nearby parking area or road shoulder without affecting traffic.![](.gitbook/assets/image.png)
 4. Ask them to turn off the engine \[Verify engine is off].
 5. Ask only the driver to exit the vehicle; passengers remain inside.
 6. Exit your vehicle and speak with the driver; request license, car documents, and discuss the traffic violation.
@@ -154,3 +177,44 @@ A person who has been proven guilty of a crime or has confessed to committing a 
 8. If BOLO – Take for further investigation.
 9. Search the vehicle for suspicious items.
 10. Return to PD and process accordingly.
+
+## <mark style="color:blue;">**Hostage Handling**</mark> <a href="#hostage-handling" id="hostage-handling"></a>
+
+1. Move the hostage to a safe spot.
+2. Cuff them for safety.
+3. Ask for ID and check for suspicious items.
+4. Check for unpaid bills or fines.
+5. Provide medical assistance if needed.
+6. Investigate the kidnapping story.
+7. Arrange taxi or EMS transport to garage.
+8. Officer must inspect robbery location.
+9. Continue investigation or pursuit as needed.
+
+## <mark style="color:$primary;">IMPOUNDING</mark>
+
+* A vehicle is found illegally parked, you may not search inside it without probable cause but  \
+  you may search their name for later finding.
+* A suspect is pulled over due to traffic violations and it’s revealed that they do not  \
+  have a driving license. Driving without a license is a Felony and arrest.
+* At the end of a car chase with all suspects either dead or detained, you may search  \
+  the escape vehicle for evidence then you may impound the vehicle.
+* A vehicle is stuck and/or irreparable in a risky area like the highway or public city  \
+  roadway
+
+## <mark style="color:blue;">Grounds for Officer Demotion</mark>
+
+* Failure to respond to radio call-outs
+* Carrying unauthorized weapons
+* Disobeying superior officers' commands
+* Unauthorized chopper use
+* Unnecessary tasing/shooting of fellow officers
+* Radio cross-talk during critical situations
+* Traffic law violations (except during robberies/traffic stops)
+* Extended PD stays without valid reason
+* Improper pursuit formation/unauthorized PIT maneuvers
+
+## <mark style="color:blue;">Chopper Landing Guidelines</mark>
+
+* Land on flat, clear surfaces
+* Avoid confined or obstructed areas
+* Prevent vehicle damage or accidental deaths during landing
