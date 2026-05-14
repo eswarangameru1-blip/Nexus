@@ -108,7 +108,7 @@ All police officers must inform their name on radio before going on duty or off 
 10-80 V : Vehicle Pursuit\
 10-80 F : Pursuit on Foot\
 10-90 : Robbery Alarm\
-10-100: Situation Clea
+10-100: Situation Clear
 
 <mark style="color:blue;">**#Vehicle Response Codes**</mark>
 
