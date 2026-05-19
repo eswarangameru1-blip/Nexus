@@ -1,26 +1,26 @@
-# 🚓 Police
+# 🚨 NEXUS POLICE DEPARTMENT
 
-## <mark style="color:blue;">**PD Common Rules**</mark>
+## <mark style="color:blue;">**PD COMMON RULES**</mark>
 
-1. &#x20;Friendly with civilians/co workers.
+1. &#x20;Be friendly with civilians/co workers.
 2. &#x20;Try to handle situation as calm as possible.
-3. &#x20;Don't break the higher official command Also There Will be always a Higher Grade Officer on   \
-   duty So all the allocation to the scenarios will be led by them.
-4. Don't play with taser and guns in public areas(especially in front of civilians).
-5. &#x20;Be Responsible has PD Officer Also always remember you are a PD officer.
+3. &#x20;Don't break the higher official command also there Will be always a higher grade officer on   \
+   duty so all the allocation to the scenarios will be led by them.
+4. Don't play with taser and guns in public areas (especially in front of civilians).
+5. &#x20;Be responsible as PD Officer also always remember you are a PD officer.
 6. &#x20;While communicating always use Sir / Madam (avoid VA da / po da & VA ya / po ya)
 7. &#x20;Should not carry confiscated items after processing a suspect Kindly Switch to Main Radio After   \
    you deposit all the confiscated items.
-8. &#x20;Officers should not use Other Officers Vehicles in Scenarios.
-9. &#x20;When You are joining radio 1 after a scenario or 10-7 or back from 10-5 Make Sure You are   \
+8. &#x20;Officers should not use other officers vehicles in scenarios.
+9. &#x20;When you are joining radio 1 after a scenario or 10-7 or back from 10-5 make sure you are   \
    ready to respond to the allocated scenario officers should not tell any reasons after they are   \
    allocated.
 10. &#x20;Don't Give random callouts in pd radio to avoid any misleading
 11. &#x20;Do not be in PD uniform while in off-duty
-12. &#x20;Do not Make changes in Window tint, Tire smoke, neon's.    \
+12. &#x20;Do not make changes in window tint, tire smoke, neon's.    \
 
 13. &#x20;Always be in proper uniform allocated to your grade.
-14. &#x20;Maintain good hairstyle & color, Black, Brown, White, Mild Red looking like a PD officer.
+14. &#x20;Maintain good hairstyle & have mild shades looking like a PD officer.
 15. vehicle inspection and inventory check will be done once in a while    \
 
 16. Don't go AFK after being unconscious or at the time of processing suspects
@@ -36,7 +36,7 @@
 
 * Director General of Police (DGP)&#x20;
 * Special Director General of Police (SDGP)
-* Assistant Director General of Police (ADGP)
+* Additional Director General of Police (ADGP)
 
 **High Command of Police**
 
@@ -75,9 +75,9 @@
 
 **Probation**
 
-* Trainee (TR)
+* Rookie (RO)
 
-## <mark style="color:blue;">**NXPD Radio Rules:**</mark>
+## <mark style="color:blue;">**NXPD RADIO RULES:**</mark>
 
 All police officers must inform their name on radio before going on duty or off duty Example: XXXXX 10-8 (or) 10-7
 
@@ -129,7 +129,7 @@ A suspect is a person whom the police believe may be guilty of a crime but has n
 
 A person who has been proven guilty of a crime or has confessed to committing a crime is considered a criminal.
 
-## <mark style="color:$primary;background-color:green;">**Warrant / Bolo Protocol**</mark>
+## <mark style="color:$primary;background-color:green;">**WARRANT / BOLO PROTOCOL**</mark>
 
 <mark style="color:blue;">**BOLO (Be-On-Look-Out)**</mark>
 
@@ -142,7 +142,7 @@ A person who has been proven guilty of a crime or has confessed to committing a 
 2. Lethal force is permitted **if necessary** during apprehension.
 3. For **minor offenses**, issue a **Minor Warrant** – _no kill on sight_.
 
-#### <mark style="color:blue;">**Patrolling Procedure**</mark> <a href="#patrolling-procedure" id="patrolling-procedure"></a>
+#### <mark style="color:blue;">**PATROLLING PROCEDURE**</mark> <a href="#patrolling-procedure" id="patrolling-procedure"></a>
 
 1. **Notify the officer-in-charge** before starting your patrol.
 2. **Follow all traffic laws** while patrolling—set an example for civilians.
@@ -151,7 +151,7 @@ A person who has been proven guilty of a crime or has confessed to committing a 
 5. **Do not lend or allow civilians** to use police vehicles under any circumstance.
 6. **Use sirens only** during emergencies or active pursuits—avoid unnecessary use.
 
-## <mark style="color:blue;">**Traffic Stop Procedure**</mark> <a href="#traffic-stop-procedure" id="traffic-stop-procedure"></a>
+## <mark style="color:blue;">**TRAFFIC STOP PROCEDURE**</mark> <a href="#traffic-stop-procedure" id="traffic-stop-procedure"></a>
 
 1. Use a siren and megaphone to pull over a car.
 2. Inform radio about the situation, reason for the pullover, car number, model, and color.
@@ -165,7 +165,7 @@ A person who has been proven guilty of a crime or has confessed to committing a 
 10. If driver/passenger has warrant/BOLO, request backup via radio.
 11. Wait for backup to arrive.
 
-## <mark style="color:blue;">**Terry Stop Procedure (for warrant/bolo suspects)**</mark> <a href="#terry-stop-procedure-for-warrant-bolo-suspects" id="terry-stop-procedure-for-warrant-bolo-suspects"></a>
+## <mark style="color:blue;">**TERRY STOP PROCEDURE (for warrant/bolo suspects)**</mark> <a href="#terry-stop-procedure-for-warrant-bolo-suspects" id="terry-stop-procedure-for-warrant-bolo-suspects"></a>
 
 1. Pull over the suspect's vehicle safely.
 2. Instruct to turn off the engine.
@@ -178,7 +178,7 @@ A person who has been proven guilty of a crime or has confessed to committing a 
 9. Search the vehicle for suspicious items.
 10. Return to PD and process accordingly.
 
-## <mark style="color:blue;">**Hostage Handling**</mark> <a href="#hostage-handling" id="hostage-handling"></a>
+## <mark style="color:blue;">**HOSTAGE HANDLING**</mark> <a href="#hostage-handling" id="hostage-handling"></a>
 
 1. Move the hostage to a safe spot.
 2. Cuff them for safety.
@@ -205,7 +205,7 @@ A person who has been proven guilty of a crime or has confessed to committing a 
 
 * Failure to respond to radio call-outs
 * Carrying unauthorized weapons
-* Disobeying superior officers' commands
+* Disobeying superior officer's commands
 * Unauthorized chopper use
 * Unnecessary tasing/shooting of fellow officers
 * Radio cross-talk during critical situations
